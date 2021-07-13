@@ -1,0 +1,51 @@
+{
+  "id": "2664988",
+  "name": "123",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "128830",
+      "name": "bubble",
+      "font_class": "bubble",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "431794",
+      "name": "hammer2",
+      "font_class": "hammer2",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "1251209",
+      "name": "list",
+      "font_class": "list",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "4678355",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e720",
+      "unicode_decimal": 59168
+    },
+    {
+      "icon_id": "5634206",
+      "name": "magnet",
+      "font_class": "magnet",
+      "unicode": "f03f",
+      "unicode_decimal": 61503
+    },
+    {
+      "icon_id": "13075005",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
